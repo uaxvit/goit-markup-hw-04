@@ -490,8 +490,13 @@ img {
 }
 
 .social-box {
+    
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 72px;
-
+}
+.container-footer {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 72px;
 }
