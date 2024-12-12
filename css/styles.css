@@ -490,9 +490,7 @@ img {
 }
 
 .social-box {
-    display: flex;
-    align-items: baseline;
-    margin-right: 120px;
+    margin-right: auto;
     margin-left: auto;
     margin-bottom: 72px;
 }
@@ -500,4 +498,9 @@ img {
     display: flex;
     flex-direction: column;
     margin-bottom: 72px;
+}
+.container-conteiners {
+    display: flex;
+    align-items: baseline;
+    margin-right: 120px;
 }
