@@ -500,6 +500,9 @@ img {
     margin-bottom: 72px;
 }
 .container-conteiners {
+    max-width: 1158px;
+    padding: 0 15px;
+    margin: 0 auto;
     display: flex;
     align-items: baseline;
     margin-right: 120px;
