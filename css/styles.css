@@ -493,12 +493,13 @@ img {
     margin-right: auto;
     margin-left: auto;
     margin-bottom: 72px;
-    margin-right: 120px;
+    
 }
 .container-footer {
     display: flex;
     flex-direction: column;
-    margin-bottom: 72px;  
+    margin-bottom: 72px;
+    margin-right: 120px;
 }
 .container-conteiners {
     max-width: 1158px;
