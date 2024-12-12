@@ -490,9 +490,10 @@ img {
 }
 
 .social-box {
-    
+    display: flex;
+    align-items: baseline;
+    margin-right: 120px;
     margin-left: auto;
-    margin-right: auto;
     margin-bottom: 72px;
 }
 .container-footer {
