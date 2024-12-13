@@ -266,7 +266,9 @@ img {
     margin-top: 0;
     margin-bottom: 24px;   
 }
-
+.li-small-text {
+    text-align:left;
+}
 .li-advantages-page::before {
     content: '';
     display: block;
@@ -513,8 +515,9 @@ img {
 }
 
 .social-box {
-    margin-right: auto;
+    /*margin-right: auto;
     margin-left: auto;
+    */
     margin-bottom: 72px;
     margin-right: 120px;
     
@@ -522,9 +525,13 @@ img {
 .container-footer {
     width: 264px;
     margin-right: 120px;
+    
  
 }
 .conteiners {
     display: flex;
     align-items: baseline;
+}
+.footer-logo {
+    margin-bottom: 16px;
 }
