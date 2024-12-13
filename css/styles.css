@@ -269,12 +269,10 @@ img {
 .li-small-text {
     text-align:left;
 }
-.li-advantages-page::before {
+.li-advantages-page {
     content: '';
     display: block;
-
     height: 120px;
-
     margin-bottom: 30px;
     background-size: contain;
     background-repeat: no-repeat;
